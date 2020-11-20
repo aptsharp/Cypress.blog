@@ -4,5 +4,5 @@
     "defaultCommandTimeout": 30000,
     "viewportHeight": 800,
     "viewportWidth": 500,
-    "retries": 3
+    "retries": 13
 }
