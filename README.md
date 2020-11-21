@@ -29,5 +29,4 @@
 
 ## Site 
 
-<a href="https://www.cypress.io/"><img src="https://user-images.githubusercontent.com/6175226/99863486-29601080-2b7d-11eb-8c14-a5de28c7746d.png" width="100"> </a>
-https://www.cypress.io/
+<a href="https://www.cypress.io/"><img src="https://user-images.githubusercontent.com/6175226/99863486-29601080-2b7d-11eb-8c14-a5de28c7746d.png" width="100"></a>
