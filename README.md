@@ -16,7 +16,7 @@
     - Cypress é All In One
     - Os testes do Cypress são escritos apenas em JavaScript
     
-  Alem do mais o Cypress gera videos com um browser generico para realizar os testes, tudo isso sem abrir uma tela, é tudo **"AUTOMATICO!"**
+  Alem do mais o Cypress gera videos com seu browser padrão, o Electron 85 para realizar os testes, tudo isso sem abrir uma tela ou janela, é tudo **"AUTOMATIC♥!"** e ducumentado em video.
   
   - Relatorio final dos testes realizados.  
   ![cypress_result](https://user-images.githubusercontent.com/6175226/99863405-b9518a80-2b7c-11eb-932c-745429d3e010.jpg)
